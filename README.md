@@ -1,4 +1,4 @@
-# AI-Productivity-Assistant
+
 # AI Productivity Assistant
 
 A modern productivity assistant built to streamline daily workflows and tasks.
