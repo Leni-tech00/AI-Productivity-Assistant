@@ -24,3 +24,4 @@ A modern productivity assistant built to streamline daily workflows and tasks.
    ```bash
    git clone [https://github.com/Leni-tech00/AI-Productivity-Assistant.git](https://github.com/Leni-tech00/AI-Productivity-Assistant.git)
 [![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-v4hbwg5z)
+https://bolt.new/~/sb1-v4hbwg5z
